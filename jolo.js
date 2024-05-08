@@ -1,1 +1,1 @@
-conosle.log("For the YOLO Badge")
+const pair = "extraordinaire";
